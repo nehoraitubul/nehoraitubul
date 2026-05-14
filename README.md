@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Nehorai 👋</h1>
 
-## 📬 Find me at
-
-<p>
-<a href="https://github.com/nehoraitubul"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" height=30></a> 
-<a href="https://www.linkedin.com/in/nehorai-tubul-089096255/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
-<a href="https://www.instagram.com/nehorai_tubul/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
+<p align="center">
+  Full Stack Developer · Java & Spring Boot · React & TypeScript
 </p>
 
+---
 
-## 🖥️ Programming Languages
-<p>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=30>
-</p>
+### 🛠️ Tech Stack
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=java,spring,python,django)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,js,ts,tailwind,materialui)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,notion)](https://skillicons.dev)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
