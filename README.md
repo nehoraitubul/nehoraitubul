@@ -7,21 +7,25 @@ Full Stack Developer · Java & Spring Boot · React & TypeScript
 ### 🛠️ Tech Stack
 
 **Backend**
-[![Backend](https://skillicons.dev/icons?i=java,spring,python,django)](https://skillicons.dev)
+
+| Java | Spring Boot | Python | Django |
+|:---:|:---:|:---:|:---:|
+| [![](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=django)](https://skillicons.dev) |
 
 **Frontend**
-[![Frontend](https://skillicons.dev/icons?i=react,js,ts,tailwind,materialui)](https://skillicons.dev)
+
+| React | JavaScript | TypeScript | Tailwind | MUI |
+|:---:|:---:|:---:|:---:|:---:|
+| [![](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev) |
 
 **Databases**
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+| PostgreSQL | MySQL |
+|:---:|:---:|
+| [![](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
 
 **Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,notion)](https://skillicons.dev)
-<br/>
-Also using: **Cursor** · **Claude (Anthropic)**
 
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nehoraitubul&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
+| Git | GitHub | Notion |
+|:---:|:---:|:---:|
+| [![](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) |
