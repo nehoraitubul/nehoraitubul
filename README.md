@@ -1,6 +1,10 @@
 # Hey, I'm Nehorai 👋
 
 Full Stack Developer · Java & Spring Boot · React & TypeScript
+- 🎓 Computer Science student (Expected graduation: 2027)
+- 💻 Building robust Full-Stack applications with clean architecture and modern UI/UX
+- 🌱 Currently working on **ClinicSaaS** (A multi-tenant Spring Boot & React platform) and **Moneity** (An automated financial management ecosystem)
+- 🧠 Exploring AI-augmented development workflows.
 
 ---
 
@@ -33,6 +37,6 @@ Full Stack Developer · Java & Spring Boot · React & TypeScript
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nehoraitubul&show_icons=true&theme=radical&hide_border=true&hide_rank=true&count_private=true" alt="Nehorai's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nehoraitubul&layout=compact&theme=radical&hide_border=true" alt="Nehorai's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nehoraitubul&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" alt="Nehorai's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nehoraitubul&layout=compact&theme=tokyonight&hide_border=true" alt="Nehorai's Top Languages" />
 </div>
