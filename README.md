@@ -29,3 +29,10 @@ Full Stack Developer · Java & Spring Boot · React & TypeScript
 | Git | GitHub | Notion |
 |:---:|:---:|:---:|
 | [![](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) |
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nehoraitubul&show_icons=true&theme=radical&hide_border=true&hide_rank=true&count_private=true" alt="Nehorai's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nehoraitubul&layout=compact&theme=radical&hide_border=true" alt="Nehorai's Top Languages" />
+</div>
